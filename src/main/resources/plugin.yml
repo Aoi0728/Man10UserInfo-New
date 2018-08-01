@@ -1,0 +1,10 @@
+name: Man10CheckUser
+version: ${project.version}
+main: red.man10.man10checkuser.Man10UserInfo
+commands:
+  man10userinfo:
+    description: man10checkuser command.
+  mui:
+    description: man10checkuser command.
+  muserinfo:
+    description: man10userinfo command.
